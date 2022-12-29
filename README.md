@@ -11,3 +11,6 @@ My code collection of 100 Days Of Coding Challenge!
    
 2. [Tic Tac Toe](https://github.com/code4Y/tic-tac-toe) :   
    A fun little game created in JavaScript 🔥 with an elegant modern design! 🌸
+  
+3. [Jump Game LeetCode](https://github.com/code4Y/100_Day_Of_Code/tree/main/Day-3) : 🐸  
+   We are initially positioned at the array's first index, and each element in the array represents your maximum jump length at that position. Return true if we can reach the last index, or false otherwise.
