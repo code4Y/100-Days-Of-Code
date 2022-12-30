@@ -1,4 +1,4 @@
-# 100_Day_Of_Code
+# 100 Day Of Code
 My code collection of 100 Days Of Coding Challenge!
 
 <p align="center">
@@ -6,11 +6,14 @@ My code collection of 100 Days Of Coding Challenge!
 </p>
 
 ### Collection Index :
-1. [Rangoli Generative Art](https://github.com/code4Y/rangoli-generative-art) :  
+1. **[Rangoli Generative Art](https://github.com/code4Y/rangoli-generative-art) :**  
    JavaScript project created on the auspicious day of Diwali festival ✨, to celebrate Rangoli 🌸 in a Digital manner using Generative Art.  
    
-2. [Tic Tac Toe](https://github.com/code4Y/tic-tac-toe) :   
+2. **[Tic Tac Toe](https://github.com/code4Y/tic-tac-toe) :**   
    A fun little game created in JavaScript 🔥 with an elegant modern design! 🌸
   
-3. [Jump Game LeetCode](https://github.com/code4Y/100_Day_Of_Code/tree/main/Day-3) : 🐸  
+3. **[Jump Game LeetCode](https://github.com/code4Y/100_Day_Of_Code/tree/main/Day-3) :** 🐸  
    We are initially positioned at the array's first index, and each element in the array represents your maximum jump length at that position. Return true if we can reach the last index, or false otherwise.
+  
+4. **[Maximum Bags With Full Capacity of Rocks LeetCode](https://github.com/code4Y/100_Day_Of_Code/tree/main/Day-4) :** :moneybag:  
+   We are given two arrays capacity and rocks. The ith bag can hold a maximum of capacity[i] rocks and currently contains rocks[i] rocks. We are also given an integer additionalRocks, we can place it in any of the bags. Return the maximum number of bags that could have full capacity after placing the additional rocks in some bags.
