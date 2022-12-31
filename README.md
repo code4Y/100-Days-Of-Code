@@ -19,4 +19,7 @@ My code collection of 100 Days Of Coding Challenge!
    We are given two arrays capacity and rocks. The ith bag can hold a maximum of capacity[i] rocks and currently contains rocks[i] rocks. We are also given an integer additionalRocks, we can place it in any of the bags. Return the maximum number of bags that could have full capacity after placing the additional rocks in some bags.  
    
 5. **[Remove Stones to Minimize the Total LeetCode](https://github.com/code4Y/100-Days-Of-Code/tree/main/Day-5) :** :cookie:  
-   We are given an array piles, where piles[i] is number of stones in ith pile, and an integer k. Choose any piles[i] and remove floor(piles[i] / 2) stones from it. We should apply this operation exactly k times and return the minimum possible total number of stones.
+   We are given an array piles, where piles[i] is number of stones in ith pile, and an integer k. Choose any piles[i] and remove floor(piles[i] / 2) stones from it. We should apply this operation exactly k times and return the minimum possible total number of stones.  
+   
+6. **[Regular Expression Matching LeetCode](https://github.com/code4Y/100-Days-Of-Code/tree/main/Day-6) :** 😃!=😭  
+   Given an input string s and a pattern p, implement regular expression matching with ```'.'``` for any single character and ```'*'``` for zero or more of the preceding element. The matching should cover the entire input string (not partial) and return true or false.  
