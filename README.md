@@ -26,3 +26,7 @@ My code collection of 100 Days Of Coding Challenge!
    
 7. **[Design Circular Queue LeetCode](https://github.com/code4Y/100-Days-Of-Code/tree/main/Day-7) :** :recycle:  
    Design circular queue, it is a linear data structure, which follows FIFO (First In First Out) principle, and the last position is connected back to the first position to make a circle. It is also called "Ring Buffer". By using circular queue, we can utlize empty spaces in front of the queue.
+  
+8. **[Word Pattern LeetCode](https://github.com/code4Y/100-Days-Of-Code/tree/main/Day-8) :**  :jigsaw:  
+   Given a pattern and a string s, find if s follows the same pattern. Here follow means a full match, such that there is a bijection between a letter in pattern and a non-empty word in s.  
+   
