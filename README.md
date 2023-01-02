@@ -30,3 +30,7 @@ My code collection of 100 Days Of Coding Challenge!
 8. **[Word Pattern LeetCode](https://github.com/code4Y/100-Days-Of-Code/tree/main/Day-8) :**  :jigsaw:  
    Given a pattern and a string s, find if s follows the same pattern. Here follow means a full match, such that there is a bijection between a letter in pattern and a non-empty word in s.  
    
+9. **[Detect Capital LeetCode](https://github.com/code4Y/100-Days-Of-Code/tree/main/Day-9) :** :scroll:  
+   We define the usage of capitals in a word to be right when one of the case is followed: all letters capital, all letters not capital or only first letter capital. Given a string ```word```, return ```true``` if the usage of capitals is right.  
+
+      
