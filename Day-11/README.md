@@ -1,4 +1,4 @@
-## Delete Columns to Make Sorted  
+## 944. Delete Columns to Make Sorted  
 
 You are given an array of ```n``` strings ```strs```, all of the same length.  
 
