@@ -34,4 +34,11 @@ My code collection of 100 Days Of Coding Challenge!
    We define the usage of capitals in a word to be right when one of the case is followed: all letters capital, all letters not capital or only first letter capital. Given a string ```word```, return ```true``` if the usage of capitals is right.  
 
 10. **[Container With Most Water LeetCode](https://github.com/code4Y/100-Days-Of-Code/tree/main/Day-10) :** :droplet:  
-    Given an array ```height``` of length ```n```. There are n vertical lines drawn such that the two endpoints of the ```i```<sup>```th```</sup> line are ```(i, 0)``` and ```(i, height[i])```. Find two lines that together with the x-axis form a container, such that it contains the most water. Return the maximum amount of water a container can store.
+    Given an array ```height``` of length ```n```. There are n vertical lines drawn such that the two endpoints of the ```i```<sup>```th```</sup> line are ```(i, 0)``` and ```(i, height[i])```. Find two lines that together with the x-axis form a container, such that it contains the most water. Return the maximum amount of water a container can store.  
+    
+11. **[Delete Columns to Make Sorted LeetCode](https://github.com/code4Y/100-Days-Of-Code/tree/main/Day-11) :** :wastebasket:  
+    Given an array of ```n``` strings ```strs```, all of the same length. The strings could form a grid. For example,```strs=["abc", "bce", "cae"]```. We want to delete the columns that are not sorted lexicographically and return the number of columns.    
+
+
+
+
