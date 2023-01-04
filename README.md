@@ -37,8 +37,10 @@ My code collection of 100 Days Of Coding Challenge!
     Given an array ```height``` of length ```n```. There are n vertical lines drawn such that the two endpoints of the ```i```<sup>```th```</sup> line are ```(i, 0)``` and ```(i, height[i])```. Find two lines that together with the x-axis form a container, such that it contains the most water. Return the maximum amount of water a container can store.  
     
 11. **[Delete Columns to Make Sorted LeetCode](https://github.com/code4Y/100-Days-Of-Code/tree/main/Day-11) :** :wastebasket:  
-    Given an array of ```n``` strings ```strs```, all of the same length. The strings could form a grid. For example,```strs=["abc", "bce", "cae"]```. We want to delete the columns that are not sorted lexicographically and return the number of columns.    
-
+    Given an array of ```n``` strings ```strs```, all of the same length. The strings could form a grid. For example,```strs=["abc", "bce", "cae"]```. We want to delete the columns that are not sorted lexicographically and return the number of columns.  
+    
+12. **[Minimum Rounds to Complete All Tasks LeetCode](https://github.com/code4Y/100-Days-Of-Code/tree/main/Day-12) :** :repeat::white_check_mark:  
+    Given an array ```tasks```, where ```tasks[i]``` represents the difficulty level of a task. In each round, you can complete either 2 or 3 tasks of the same difficulty level. Return the minimum rounds required to complete all the tasks, or ```-1``` if it is not possible to complete all the tasks.  
 
 
 
