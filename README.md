@@ -42,5 +42,7 @@ My code collection of 100 Days Of Coding Challenge!
 12. **[Minimum Rounds to Complete All Tasks LeetCode](https://github.com/code4Y/100-Days-Of-Code/tree/main/Day-12) :** :repeat::white_check_mark:  
     Given an array ```tasks```, where ```tasks[i]``` represents the difficulty level of a task. In each round, you can complete either 2 or 3 tasks of the same difficulty level. Return the minimum rounds required to complete all the tasks, or ```-1``` if it is not possible to complete all the tasks.  
 
-
+13. **[Largest Number LeetCode](https://github.com/code4Y/100-Days-Of-Code/tree/main/Day-13) :** :100:  
+    Given a list of non-negative integers ```nums```, arrange them such that they form the largest number and return it. Since the result may be very large, so we need to return a string instead of an integer.  
+    
 
