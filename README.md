@@ -45,4 +45,7 @@ My code collection of 100 Days Of Coding Challenge!
 13. **[Largest Number LeetCode](https://github.com/code4Y/100-Days-Of-Code/tree/main/Day-13) :** :100:  
     Given a list of non-negative integers ```nums```, arrange them such that they form the largest number and return it. Since the result may be very large, so we need to return a string instead of an integer.  
     
-
+14. **[Minimum Number of Arrows to Burst Balloons LeetCode](https://github.com/code4Y/100-Days-Of-Code/tree/main/Day-14) :** :dart::balloon:  
+    There are some spherical balloons taped onto a flat wall. The balloons are represented as a 2D integer array, where each element represents a range on the x-axis. Arrows can be shot up from the x-axis to burst the balloons. Find the minimum number of arrows needed to burst all the balloons.  
+    
+    
