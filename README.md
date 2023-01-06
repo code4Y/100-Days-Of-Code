@@ -54,4 +54,6 @@ My code collection of 100 Days Of Coding Challenge!
 16. **[Maximum Ice Cream Bars LeetCode](https://github.com/code4Y/100-Days-Of-Code/tree/main/Day-16) :** :yum::icecream:  
     On a summer day, a boy wants to buy some ice cream bars. Given an array costs of length ```n```, where ```costs[i]``` is the price of the <code>i<sup>th</sup></code> ice cream bar in coins. The boy initially has coins to spend, and he wants to buy as many ice cream bars as possible. Return the maximum number of ice cream bars the boy can buy with coins.  
     
-    
+17. **[Plus One LeetCode](https://github.com/code4Y/100-Days-Of-Code/tree/main/Day-17) :** :+1:  
+    Given a large integer represented as an integer array digits, where each ```digits[i]``` is the <code>i<sup>th</sup></code> digit of the integer. The digits are ordered from most significant to least significant in left-to-right order. The large integer does not contain any leading ```0```'s. Increment the large integer by one and return the resulting array of digits.  
+
