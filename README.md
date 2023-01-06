@@ -50,3 +50,8 @@ My code collection of 100 Days Of Coding Challenge!
     
 15. **[Sort the People LeetCode](https://github.com/code4Y/100-Days-Of-Code/tree/main/Day-15) :** :1234::busts_in_silhouette:  
     Given an array of strings names, and an array heights that consists of distinct positive integers. Both arrays are of length n. For each index ```i```, ```names[i]``` and ```heights[i]``` denote the name and height of the <code>i<sup>th</sup></code> person. Return names sorted in descending order of heights.  
+
+16. **[Maximum Ice Cream Bars LeetCode](https://github.com/code4Y/100-Days-Of-Code/tree/main/Day-16) :** :yum::icecream:  
+    On a summer day, a boy wants to buy some ice cream bars. Given an array costs of length ```n```, where ```costs[i]``` is the price of the <code>i<sup>th</sup></code> ice cream bar in coins. The boy initially has coins to spend, and he wants to buy as many ice cream bars as possible. Return the maximum number of ice cream bars the boy can buy with coins.  
+    
+    
