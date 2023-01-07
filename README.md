@@ -57,3 +57,13 @@ My code collection of 100 Days Of Coding Challenge!
 17. **[Plus One LeetCode](https://github.com/code4Y/100-Days-Of-Code/tree/main/Day-17) :** :+1:  
     Given a large integer represented as an integer array digits, where each ```digits[i]``` is the <code>i<sup>th</sup></code> digit of the integer. The digits are ordered from most significant to least significant in left-to-right order. The large integer does not contain any leading ```0```'s. Increment the large integer by one and return the resulting array of digits.  
 
+18. **[Gas Station LeetCode](https://github.com/code4Y/100-Days-Of-Code/tree/main/Day-18) :** :fuelpump:  
+    Given two arrays representing a circular journey with ```n``` gas stations: ```gas``` and ```cost```. Our car has an unlimited gas tank and it costs a certain amount of gas to travel from one station to the next. Find the index of the gas station where we can start the journey and complete the circuit once. Return ```-1``` if it is not possible.  
+    
+
+
+
+
+
+
+
