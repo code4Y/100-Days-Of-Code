@@ -66,7 +66,10 @@ My code collection of 100 Days Of Coding Challenge!
 20. **[Max Points on a Line LeetCode](https://github.com/code4Y/100-Days-Of-Code/tree/main/Day-20) :** 🔢📏   
     Given an array of ```points``` where ```points[i] = [xi, yi]``` represents a point on the **X-Y** plane, return the maximum number of points that lie on the same straight line.
 
-
+21. **[Minimum Difference Between Highest and Lowest of K Scores LeetCode](https://github.com/code4Y/100-Days-Of-Code/tree/main/Day-21) :** 🔼🔽  
+    Given an array ```nums```, where ```nums[i]``` represents the score of the <code>i<sup>th</sup></code> student, with an integer ```k```. Pick the scores of any ```k``` students from the array so that the difference between the highest and the lowest of the ```k``` scores is minimized. Return the minimum possible difference.  
+    
+    
 
 
 
