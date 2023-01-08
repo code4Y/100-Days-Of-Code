@@ -63,7 +63,8 @@ My code collection of 100 Days Of Coding Challenge!
 19. **[Keyboard Row LeetCode](https://github.com/code4Y/100-Days-Of-Code/tree/main/Day-19) :** :computer:  
     Given an array of strings ```words```, return the words that can be typed using letters of the alphabet on only one row of American keyboard like: first row is ```"qwertyuiop"```, second row is ```"asdfghjkl"```, and third row is ```"zxcvbnm"```.   
     
-    
+20. **[Max Points on a Line LeetCode](https://github.com/code4Y/100-Days-Of-Code/tree/main/Day-20) :** 🔢📏   
+    Given an array of ```points``` where ```points[i] = [xi, yi]``` represents a point on the **X-Y** plane, return the maximum number of points that lie on the same straight line.
 
 
 
