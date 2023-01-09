@@ -72,6 +72,7 @@ My code collection of 100 Days Of Coding Challenge!
 22. **[Binary Tree Preorder Traversal LeetCode](https://github.com/code4Y/100-Days-Of-Code/tree/main/Day-22) :** 🌳👈👉  
     Given the ```root``` of a binary tree, return the preorder traversal of its nodes' values.  
 
-
+23. **[Maximum Average Subarray I LeetCode](https://github.com/code4Y/100-Days-Of-Code/tree/main/Day-23) :** ⏫⏳  
+    Given an integer array ```nums``` consisting of ```n``` elements, and an integer ```k```. Find a contiguous subarray whose length is equal to ```k``` that has the maximum average value and return this value. Any answer with a calculation error less than <code>10<sup>-5</sup></code> will be accepted.  
 
 
