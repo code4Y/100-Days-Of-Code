@@ -79,5 +79,4 @@ My code collection of 100 Days Of Coding Challenge!
     Given the roots of two binary trees ```p``` and ```q```, write a function to check if they are the same or not. Two binary trees are considered the same if they are structurally identical, and the nodes have the same value.  
     
 25. **[Contains Duplicate II LeetCode](https://github.com/code4Y/100-Days-Of-Code/tree/main/Day-25) :** 🔍🔎    
-    Given an integer array ```nums``` and an integer ```k```, return ```true``` if there are two distinct indices ```i```and ```j``` in the array such that  
-    ```nums[i] == nums[j]``` and ```abs(i - j) <= k```.  
+    Given an integer array ```nums``` and an integer ```k```, return ```true``` if there are two distinct indices ```i```and ```j``` in the array such that ```nums[i] == nums[j]``` and ```abs(i - j) <= k```.  
