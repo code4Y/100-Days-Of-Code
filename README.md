@@ -75,4 +75,8 @@ My code collection of 100 Days Of Coding Challenge!
 23. **[Maximum Average Subarray I LeetCode](https://github.com/code4Y/100-Days-Of-Code/tree/main/Day-23) :** ⏫⏳  
     Given an integer array ```nums``` consisting of ```n``` elements, and an integer ```k```. Find a contiguous subarray whose length is equal to ```k``` that has the maximum average value and return this value. Any answer with a calculation error less than <code>10<sup>-5</sup></code> will be accepted.  
 
+24. **[Same Tree LeetCode](https://github.com/code4Y/100-Days-Of-Code/tree/main/Day-24) :** 🌳🌳  
+    Given the roots of two binary trees ```p``` and ```q```, write a function to check if they are the same or not. Two binary trees are considered the same if they are structurally identical, and the nodes have the same value.  
+    
+    
 
