@@ -80,3 +80,8 @@ My code collection of 100 Days Of Coding Challenge!
     
 25. **[Contains Duplicate II LeetCode](https://github.com/code4Y/100-Days-Of-Code/tree/main/Day-25) :** 🔍🔎    
     Given an integer array ```nums``` and an integer ```k```, return ```true``` if there are two distinct indices ```i```and ```j``` in the array such that ```nums[i] == nums[j]``` and ```abs(i - j) <= k```.  
+
+26. **[Minimum Time to Collect All Apples in a Tree LeetCode](https://github.com/code4Y/100-Days-Of-Code/tree/main/Day-26) :** 🍎🏃  
+    Given an undirected tree consisting of ```n``` vertices numbered from ```0``` to ```n-1```, which has some apples in their vertices. You spend 1 second to walk over one edge of the tree. Return the minimum time in seconds you have to spend to collect all apples in the tree, starting at **vertex 0** and coming back to this vertex.  
+    
+    
