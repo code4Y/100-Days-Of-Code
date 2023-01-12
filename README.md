@@ -87,5 +87,9 @@ My code collection of 100 Days Of Coding Challenge!
 27. **[Intersection of Two Arrays LeetCode](https://github.com/code4Y/100-Days-Of-Code/tree/main/Day-27) :** ⋂  
     Given two integer arrays ```nums1``` and ```nums2```, return an array of their intersection. Each element in the result must be unique and you may return the result in any order.  
     
+28. **[Number of Nodes in the Sub-Tree With the Same Label LeetCode](https://github.com/code4Y/100-Days-Of-Code/tree/main/Day-28) :** 🌳🔍🎨  
+    Given a tree with n nodes labeled by lower-case characters. Each node has a label specified in the string ```labels```, and the edges of the tree are given in the array ```edges```. The task is to return an array of size ```n```, where each element is the number of nodes in the subtree of the corresponding node that have the same label as the node itself.  
+    
+    
     
     
