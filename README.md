@@ -93,6 +93,10 @@ My code collection of 100 Days Of Coding Challenge!
 29. **[Max Consecutive Ones III LeetCode](https://github.com/code4Y/100-Days-Of-Code/tree/main/Day-29) :** 📈1️⃣  
     Given a binary array ```nums``` and an integer ```k```, return the maximum number of consecutive ```1```'s in the array if you can flip at most ```k``` ```0```'s.  
     
+30. **[Longest Path With Different Adjacent Characters LeetCode](https://github.com/code4Y/100-Days-Of-Code/tree/main/Day-30) :** 🌲🛣️🌳  
+    Given a tree represented by an array and a string, find the longest path in the tree such that no two adjacent nodes on the path have the same character assigned to them.  
+    
+    
     
     
     
