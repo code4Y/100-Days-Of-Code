@@ -96,7 +96,8 @@ My code collection of 100 Days Of Coding Challenge!
 30. **[Longest Path With Different Adjacent Characters LeetCode](https://github.com/code4Y/100-Days-Of-Code/tree/main/Day-30) :** 🌲🛣️🌳  
     Given a tree represented by an array and a string, find the longest path in the tree such that no two adjacent nodes on the path have the same character assigned to them.  
     
-    
+31. **[Grumpy Bookstore Owner LeetCode](https://github.com/code4Y/100-Days-Of-Code/tree/main/Day-31) :** 😠📚  
+    Given an array ```customers``` and an array ```grumpy```, where ```grumpy[i]``` is ```1``` if the bookstore owner is grumpy during the <code>i<sup>th</sup></code> minute and ```0``` otherwise. The bookstore owner knows a secret technique to keep themselves not grumpy for a certain number of ```minutes```, but can only use it once. Return the maximum number of customers that can be satisfied throughout the day.   
     
     
     
