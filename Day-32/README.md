@@ -82,6 +82,7 @@ class Solution {
         return ans.toString();
     }
 
+    // Find parent Function
     int findPar(int c) {
         if(par[c] == c)
             return c;
@@ -89,12 +90,14 @@ class Solution {
         return par[c] = findPar(par[c]);
     }
 
+    // Union just updates the parent
     void union(int a, int b) {
         a = findPar(a);
         b = findPar(b);
         if(a == b) 
             return;
         
+        // Lexicographically smaller character will become the parent
         if(a < b)
             par[b] = a;
         else 
