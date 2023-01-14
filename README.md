@@ -102,6 +102,7 @@ My code collection of 100 Days Of Coding Challenge!
 32. **[Lexicographically Smallest Equivalent String LeetCode](https://github.com/code4Y/100-Days-Of-Code/tree/main/Day-32) :** 📝📊🔤   
     Given two strings of the same length ```s1``` and ```s2``` and a string ```baseStr```, using the equivalency information from ```s1``` and ```s2```, return the lexicographically smallest equivalent string of ```baseStr```.   
     
-    
+33. **[Best Time to Buy and Sell Stock LeetCode](https://github.com/code4Y/100-Days-Of-Code/tree/main/Day-33) :** 💰📈📉   
+    Maximize profit by buying and selling a stock on different days, return max profit or 0 if none.   
     
     
