@@ -99,6 +99,9 @@ My code collection of 100 Days Of Coding Challenge!
 31. **[Grumpy Bookstore Owner LeetCode](https://github.com/code4Y/100-Days-Of-Code/tree/main/Day-31) :** 😠📚  
     Given an array ```customers``` and an array ```grumpy```, where ```grumpy[i]``` is ```1``` if the bookstore owner is grumpy during the <code>i<sup>th</sup></code> minute and ```0``` otherwise. The bookstore owner knows a secret technique to keep themselves not grumpy for a certain number of ```minutes```, but can only use it once. Return the maximum number of customers that can be satisfied throughout the day.   
     
+32. **[Lexicographically Smallest Equivalent String LeetCode](https://github.com/code4Y/100-Days-Of-Code/tree/main/Day-32) :** 📝📊🔤   
+    Given two strings of the same length ```s1``` and ```s2``` and a string ```baseStr```, using the equivalency information from ```s1``` and ```s2```, return the lexicographically smallest equivalent string of ```baseStr```.   
+    
     
     
     
