@@ -108,3 +108,7 @@ My code collection of 100 Days Of Coding Challenge!
 34. **[Number of Good Paths LeetCode](https://github.com/code4Y/100-Days-Of-Code/tree/main/Day-34) :** 🛣️  
     Find the number of good paths in a tree, where a good path starts and ends at nodes with the same value and all nodes in between have values less than or equal to the starting node's value. The input is an array of node values and an array of edges representing the tree structure.  
     
+35. **[Number of Arithmetic Triplets LeetCode](https://github.com/code4Y/100-Days-Of-Code/tree/main/Day-35) :** 🔢📊   
+    Find the number of unique arithmetic triplets ```(i, j, k)``` in a strictly increasing integer array where ```nums[j] - nums[i] == diff``` and ```nums[k] - nums[j] == diff.```   
+    
+    
