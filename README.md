@@ -111,4 +111,6 @@ My code collection of 100 Days Of Coding Challenge!
 35. **[Number of Arithmetic Triplets LeetCode](https://github.com/code4Y/100-Days-Of-Code/tree/main/Day-35) :** 🔢📊   
     Find the number of unique arithmetic triplets ```(i, j, k)``` in a strictly increasing integer array where ```nums[j] - nums[i] == diff``` and ```nums[k] - nums[j] == diff.```   
     
+36. **[Number of Arithmetic Triplets LeetCode](https://github.com/code4Y/100-Days-Of-Code/tree/main/Day-36) :** ⬇️⌛  
+    The task is to insert a new interval into a given sorted array of non-overlapping intervals and merge any overlapping intervals if necessary, while keeping the array sorted.   
     
