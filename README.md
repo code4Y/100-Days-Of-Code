@@ -114,3 +114,8 @@ My code collection of 100 Days Of Coding Challenge!
 36. **[Insert Interval LeetCode](https://github.com/code4Y/100-Days-Of-Code/tree/main/Day-36) :** ⬇️⌛  
     The task is to insert a new interval into a given sorted array of non-overlapping intervals and merge any overlapping intervals if necessary, while keeping the array sorted.   
     
+37. **[Flipping an Image LeetCode](https://github.com/code4Y/100-Days-Of-Code/tree/main/Day-37) :** 👆👇  
+    Given an n x n binary matrix image, flip the image horizontally, then invert it, and return the resulting image.   
+    E.g. ```[1,1,0]``` -> ```[0,1,1]``` -> ```[1,0,0]```   
+    
+    
