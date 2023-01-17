@@ -121,4 +121,6 @@ My code collection of 100 Days Of Coding Challenge!
 38. **[Flip String to Monotone Increasing LeetCode](https://github.com/code4Y/100-Days-Of-Code/tree/main/Day-38) :** 0️⃣1️⃣📈    
     Given a binary string, flip the least number of times to make it monotone increasing (consists of 0's followed by 1's) and return that count.  
     
-   
+39. **[Find First Palindromic String in the Array LeetCode](https://github.com/code4Y/100-Days-Of-Code/tree/main/Day-39) :** 🔍🔁   
+    Given an array of strings ```words```, return the first palindromic string in the array. If there is no such string, return an empty string ```""```.  
+    
