@@ -126,3 +126,7 @@ My code collection of 100 Days Of Coding Challenge!
     
 40. **[Maximum Sum Circular Subarray LeetCode](https://github.com/code4Y/100-Days-Of-Code/tree/main/Day-40) :** 🔝💰🌀  
     Given a **circular integer array** ```nums``` of length ```n```, return the maximum possible sum of a non-empty **subarray** of ```nums```.  
+    
+41. **[Maximum Count of Positive Integer and Negative Integer LeetCode](https://github.com/code4Y/100-Days-Of-Code/tree/main/Day-41) :** 📊  
+    Get the maximum count of positive and negative integers in a given array and return the maximum count.   
+    
