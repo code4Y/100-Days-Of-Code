@@ -124,3 +124,5 @@ My code collection of 100 Days Of Coding Challenge!
 39. **[Find First Palindromic String in the Array LeetCode](https://github.com/code4Y/100-Days-Of-Code/tree/main/Day-39) :** 🔍🔁   
     Given an array of strings ```words```, return the first palindromic string in the array. If there is no such string, return an empty string ```""```.  
     
+40. **[Maximum Sum Circular Subarray LeetCode](https://github.com/code4Y/100-Days-Of-Code/tree/main/Day-40) :** 🔝💰🌀  
+    Given a **circular integer array** ```nums``` of length ```n```, return the maximum possible sum of a non-empty **subarray** of ```nums```.  
