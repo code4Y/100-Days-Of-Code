@@ -130,3 +130,5 @@ My code collection of 100 Days Of Coding Challenge!
 41. **[Maximum Count of Positive Integer and Negative Integer LeetCode](https://github.com/code4Y/100-Days-Of-Code/tree/main/Day-41) :** 📊  
     Get the maximum count of positive and negative integers in a given array and return the maximum count.   
     
+42. **[Binary Search LeetCode](https://github.com/code4Y/100-Days-Of-Code/tree/main/Day-42) :** 1️⃣➗2️⃣    
+    Given an array of integers nums which is sorted in ascending order, and an integer target, write a function to search target in nums. If target exists, then return its index. Otherwise, return -1.  
