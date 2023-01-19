@@ -132,3 +132,8 @@ My code collection of 100 Days Of Coding Challenge!
     
 42. **[Binary Search LeetCode](https://github.com/code4Y/100-Days-Of-Code/tree/main/Day-42) :** 1️⃣➗2️⃣    
     Given an array of integers nums which is sorted in ascending order, and an integer target, write a function to search target in nums. If target exists, then return its index. Otherwise, return -1.  
+
+43. **[Subarray Sums Divisible by K LeetCode](https://github.com/code4Y/100-Days-Of-Code/tree/main/Day-43) :** 🔢🔍  
+    Given an integer array ```nums``` and an integer ```k```, return the number of non-empty **subarrays** that have a sum divisible by ```k```. A subarray is a contiguous part of an array.   
+    
+    
