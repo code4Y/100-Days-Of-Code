@@ -138,3 +138,8 @@ My code collection of 100 Days Of Coding Challenge!
     
 44. **[Count Number of Nice Subarrays LeetCode](https://github.com/code4Y/100-Days-Of-Code/tree/main/Day-44) :** 🧮📊  
     Given an array of integers ```nums``` and an integer ```k```. A continuous subarray is called **nice** if there are ```k``` odd numbers on it. Return the number of nice sub-arrays.  
+
+45. **[Non-decreasing Subsequences LeetCode](https://github.com/code4Y/100-Days-Of-Code/tree/main/Day-45) :** 📈   
+    Given an integer array ```nums```, return all the different possible non-decreasing subsequences of the given array with at least two elements. You may return the answer in **any order**.  
+    
+    
