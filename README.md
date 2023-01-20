@@ -136,4 +136,5 @@ My code collection of 100 Days Of Coding Challenge!
 43. **[Subarray Sums Divisible by K LeetCode](https://github.com/code4Y/100-Days-Of-Code/tree/main/Day-43) :** 🔢🔍  
     Given an integer array ```nums``` and an integer ```k```, return the number of non-empty **subarrays** that have a sum divisible by ```k```. A subarray is a contiguous part of an array.   
     
-    
+44. **[Count Number of Nice Subarrays LeetCode](https://github.com/code4Y/100-Days-Of-Code/tree/main/Day-44) :** 🧮📊  
+    Given an array of integers ```nums``` and an integer ```k```. A continuous subarray is called **nice** if there are ```k``` odd numbers on it. Return the number of nice sub-arrays.  
