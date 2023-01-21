@@ -142,4 +142,6 @@ My code collection of 100 Days Of Coding Challenge!
 45. **[Non-decreasing Subsequences LeetCode](https://github.com/code4Y/100-Days-Of-Code/tree/main/Day-45) :** 📈   
     Given an integer array ```nums```, return all the different possible non-decreasing subsequences of the given array with at least two elements. You may return the answer in **any order**.  
     
+46. **[Sum of All Subset XOR Totals LeetCode](https://github.com/code4Y/100-Days-Of-Code/tree/main/Day-46) :** ⨁   
+    Given an array of integers, return the sum of XOR of all subsets. Count subsets with same elements multiple times.  
     
