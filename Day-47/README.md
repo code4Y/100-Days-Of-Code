@@ -76,9 +76,11 @@ class Solution {
 
 ### Complexity:  
 
-* Time Complexity: O((M<sup>N</sup>)*N) = O(81)  
-    * N is the length of the input string.  
+* Time Complexity: O((M<sup>N</sup>)*N)  
+    * N is the length of the input string, each integer is at most M digits.
+    * For this question: M = 3, N = 4, so the time complexity is O(1).   
      
-* Space Complexity: O(N)   
+* Space Complexity: O(M*N)   
     * StringBuilder object is used to store the current IP address.  
+    * For this question: M = 3, N = 4, so the space complexity is O(1).   
 
