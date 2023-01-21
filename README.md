@@ -145,3 +145,7 @@ My code collection of 100 Days Of Coding Challenge!
 46. **[Sum of All Subset XOR Totals LeetCode](https://github.com/code4Y/100-Days-Of-Code/tree/main/Day-46) :** ⨁   
     Given an array of integers, return the sum of XOR of all subsets. Count subsets with same elements multiple times.  
     
+47. **[Restore IP Addresses LeetCode](https://github.com/code4Y/100-Days-Of-Code/tree/main/Day-47) :** 🛠️🌐   
+    A valid IP address consists of 4 integers between 0 and 255, separated by dots, no leading zeros. Given a string of digits, return all possible valid IP addresses that can be formed by inserting dots, no reordering or removing digits in the string.    
+    
+    
