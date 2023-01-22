@@ -151,3 +151,7 @@ My code collection of 100 Days Of Coding Challenge!
 48. **[Palindrome Partitioning LeetCode](https://github.com/code4Y/100-Days-Of-Code/tree/main/Day-48) :** 🔄🔨🧱    
     Given a string ```s```, partition ```s``` such that every substring of the partition is a palindrome. Return all possible palindrome partitioning of ```s```.  
     
+49. **[Assign Cookies LeetCode](https://github.com/code4Y/100-Days-Of-Code/tree/main/Day-49) :** 🍪   
+    You want to give your children cookies, with each child getting at most one. Each child has a "greed factor" for cookie size, and you have cookies of various sizes. You want to assign the cookies to the children to make the most content children.  
+    
+    
