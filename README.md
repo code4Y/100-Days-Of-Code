@@ -157,4 +157,7 @@ My code collection of 100 Days Of Coding Challenge!
 50. **[Minimum Common Value LeetCode](https://github.com/code4Y/100-Days-Of-Code/tree/main/Day-50) :** 📜🔘📃  
     Given two sorted integer arrays, return minimum common integer from sorted arrays ```nums1``` and ```nums2```, or ```-1``` if none.     
     
-        
+51. **[Find the Town Judge LeetCode](https://github.com/code4Y/100-Days-Of-Code/tree/main/Day-51) :** 🏛️   
+    Find the town judge among ```n``` people, using trust array <code>trust[i]=[a<sub>i</sub>, b<sub>i</sub>]</code>. Return their label if they trust no one and are trusted by everyone except themselves, else return ```-1```.   
+    
+    
