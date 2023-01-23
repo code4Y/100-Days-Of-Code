@@ -154,4 +154,7 @@ My code collection of 100 Days Of Coding Challenge!
 49. **[Assign Cookies LeetCode](https://github.com/code4Y/100-Days-Of-Code/tree/main/Day-49) :** 🍪   
     You want to give your children cookies, with each child getting at most one. Each child has a "greed factor" for cookie size, and you have cookies of various sizes. You want to assign the cookies to the children to make the most content children.  
     
+50. **[Minimum Common Value LeetCode](https://github.com/code4Y/100-Days-Of-Code/tree/main/Day-50) :** 📜🔘📃  
+    Given two sorted integer arrays, return minimum common integer from sorted arrays ```nums1``` and ```nums2```, or ```-1``` if none.     
     
+        
