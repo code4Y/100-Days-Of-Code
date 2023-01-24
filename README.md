@@ -160,4 +160,6 @@ My code collection of 100 Days Of Coding Challenge!
 51. **[Find the Town Judge LeetCode](https://github.com/code4Y/100-Days-Of-Code/tree/main/Day-51) :** 🏛️   
     Find the town judge among ```n``` people, using trust array <code>trust[i]=[a<sub>i</sub>, b<sub>i</sub>]</code>. Return their label if they trust no one and are trusted by everyone except themselves, else return ```-1```.   
     
-    
+52. **[Predict the Winner LeetCode](https://github.com/code4Y/100-Days-Of-Code/tree/main/Day-52) :** 🏆    
+    Given an integer array ```nums```, two players take turns choosing numbers from either end of the array, adding to their score until the array is empty. Return true if Player 1 can win assuming optimal play.   
+        
