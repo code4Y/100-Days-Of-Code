@@ -163,3 +163,7 @@ My code collection of 100 Days Of Coding Challenge!
 52. **[Predict the Winner LeetCode](https://github.com/code4Y/100-Days-Of-Code/tree/main/Day-52) :** 🏆    
     Given an integer array ```nums```, two players take turns choosing numbers from either end of the array, adding to their score until the array is empty. Return true if Player 1 can win assuming optimal play.   
         
+53. **[Snakes and Ladders LeetCode](https://github.com/code4Y/100-Days-Of-Code/tree/main/Day-53) :** 🐍🎲🪜   
+    Find the minimum number of moves to reach the end of a snakes and ladders board where each cell is labeled in a Boustrophedon style. The algorithm uses breadth-first search and returns ```-1``` if the end cannot be reached.   
+    
+    
