@@ -169,4 +169,9 @@ My code collection of 100 Days Of Coding Challenge!
 54. **[Find Closest Node to Given Two Nodes LeetCode](https://github.com/code4Y/100-Days-Of-Code/tree/main/Day-54) :** 🎱↔️⭕   
     Given a directed graph with n nodes, represented by an array of edges and two starting nodes, find the closest node that can be reached from both nodes with minimized maximum distance. If multiple answers, return smallest index. Return -1 if no possible answer.   
     
+55. **[Reverse Linked List LeetCode](https://github.com/code4Y/100-Days-Of-Code/tree/main/Day-55) :** 🔙🔗📜   
+    Given the **head** of a singly linked list, reverse the list, and return the reversed list.   
+    
+    
+    
     
