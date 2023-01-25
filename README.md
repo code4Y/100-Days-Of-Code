@@ -166,4 +166,7 @@ My code collection of 100 Days Of Coding Challenge!
 53. **[Snakes and Ladders LeetCode](https://github.com/code4Y/100-Days-Of-Code/tree/main/Day-53) :** 🐍🎲🪜   
     Find the minimum number of moves to reach the end of a snakes and ladders board where each cell is labeled in a Boustrophedon style. The algorithm uses breadth-first search and returns ```-1``` if the end cannot be reached.   
     
+54. **[Find Closest Node to Given Two Nodes LeetCode](https://github.com/code4Y/100-Days-Of-Code/tree/main/Day-54) :** 🎱↔️⭕   
+    Given a directed graph with n nodes, represented by an array of edges and two starting nodes, find the closest node that can be reached from both nodes with minimized maximum distance. If multiple answers, return smallest index. Return -1 if no possible answer.   
+    
     
