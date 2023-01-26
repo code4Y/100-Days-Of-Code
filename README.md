@@ -172,6 +172,7 @@ My code collection of 100 Days Of Coding Challenge!
 55. **[Reverse Linked List LeetCode](https://github.com/code4Y/100-Days-Of-Code/tree/main/Day-55) :** 🔙🔗📜   
     Given the **head** of a singly linked list, reverse the list, and return the reversed list.   
     
-    
+56. **[Cheapest Flights Within K Stops LeetCode](https://github.com/code4Y/100-Days-Of-Code/tree/main/Day-56) :** ✈   
+    Find the cheapest route from ```src``` to ```dst``` with at most ```k``` stops among ```n``` cities connected by flights, return ```-1``` if no such route exists.    
     
     
