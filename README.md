@@ -175,4 +175,7 @@ My code collection of 100 Days Of Coding Challenge!
 56. **[Cheapest Flights Within K Stops LeetCode](https://github.com/code4Y/100-Days-Of-Code/tree/main/Day-56) :** ✈   
     Find the cheapest route from ```src``` to ```dst``` with at most ```k``` stops among ```n``` cities connected by flights, return ```-1``` if no such route exists.    
     
-    
+57. **[Roman to Integer LeetCode](https://github.com/code4Y/100-Days-Of-Code/tree/main/Day-57) :** ➡️🔢   
+    Given a roman numeral, convert it to an integer. Roman numerals have 7 symbols: I, V, X, L, C, D, M. Each symbol represents a different value. The algorithm for 
+converting Roman numerals to integers is adding together the values of each symbol, handling special cases of subtraction such as IV and IX.   
+
