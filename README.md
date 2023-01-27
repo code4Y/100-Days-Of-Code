@@ -179,3 +179,7 @@ My code collection of 100 Days Of Coding Challenge!
     Given a roman numeral, convert it to an integer. Roman numerals have 7 symbols: I, V, X, L, C, D, M. Each symbol represents a different value. The algorithm for 
 converting Roman numerals to integers is adding together the values of each symbol, handling special cases of subtraction such as IV and IX.   
 
+58. **[Missing Number LeetCode](https://github.com/code4Y/100-Days-Of-Code/tree/main/Day-58) :** ❓   
+    Given an array ```nums``` containing ```n``` distinct numbers in the range ```[0, n]```, return the only number in the range that is missing from the array.   
+    
+   
