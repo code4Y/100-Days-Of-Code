@@ -188,4 +188,8 @@ converting Roman numerals to integers is adding together the values of each symb
 60. **[Data Stream as Disjoint Intervals LeetCode](https://github.com/code4Y/100-Days-Of-Code/tree/main/Day-60) :** 📊📈🔳🔲   
     Implement a ```SummaryRanges``` class that can: Initialize with an empty stream, add integers to the stream and return a summary of the integers in the stream as a list of disjoint intervals, sorted by start interval.  
     
-
+61. **[Closest Prime Numbers in Range LeetCode](https://github.com/code4Y/100-Days-Of-Code/tree/main/Day-61) :** 3️⃣⏩5️⃣   
+    Find the closest prime numbers between ```left``` and ```right```, where closest is defined as minimum difference between the two prime numbers. Return the pair as an array or ```[-1, -1]``` if no such pair exists. Prime numbers are defined as numbers only divisible by ```1``` and themselves.   
+    
+    
+    
