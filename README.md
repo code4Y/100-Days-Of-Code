@@ -185,3 +185,7 @@ converting Roman numerals to integers is adding together the values of each symb
 59. **[Concatenated Words LeetCode](https://github.com/code4Y/100-Days-Of-Code/tree/main/Day-59) :** ▶️⏩   
     Given an array of strings ```words``` (**without duplicates**), return all the **concatenated words** in the given list of ```words```. A **concatenated word** is defined as a string that is comprised entirely of at least two shorter words in the given array.   
     
+60. **[Data Stream as Disjoint Intervals LeetCode](https://github.com/code4Y/100-Days-Of-Code/tree/main/Day-60) :** 📊📈🔳🔲   
+    Implement a ```SummaryRanges``` class that can: Initialize with an empty stream, add integers to the stream and return a summary of the integers in the stream as a list of disjoint intervals, sorted by start interval.  
+    
+
