@@ -193,5 +193,8 @@ converting Roman numerals to integers is adding together the values of each symb
     
 62. **[LFU Cache LeetCode](https://github.com/code4Y/100-Days-Of-Code/tree/main/Day-62) :** 💾     
     Design and implement a LFU cache data structure. Implement the ```LFUCache``` class with ```get``` and ```put``` methods that have ```O(1)``` time complexity.    
+63. **[Sqrt(x) LeetCode](https://github.com/code4Y/100-Days-Of-Code/tree/main/Day-63) :** 🧮🔢   
+    Find square root of x rounded down to nearest integer. No built-in functions or operators allowed.     
     
+
     
