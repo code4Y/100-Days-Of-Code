@@ -199,5 +199,8 @@ converting Roman numerals to integers is adding together the values of each symb
 64. **[Happy Number LeetCode](https://github.com/code4Y/100-Days-Of-Code/tree/main/Day-64) :** 😊   
     Determine if a number is happy by summing its digits' squares and repeating until 1 or an endless cycle. Return true if it ends in 1, false otherwise.   
 
-
+65. **[N-th Tribonacci Number LeetCode](https://github.com/code4Y/100-Days-Of-Code/tree/main/Day-65) :** 🔢🔄   
+    The Tribonacci sequence is defined as: T<sub>0</sub> = 0, T<sub>1</sub> = 1, T<sub>2</sub> = 1, T<sub>n+3</sub> = T<sub>n</sub>+T<sub>n+1</sub>+T<sub>n+2</sub> for ```n >= 0```. Given ```n```, return T<sub>n</sub>.     
     
+    
+
