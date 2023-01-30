@@ -196,5 +196,8 @@ converting Roman numerals to integers is adding together the values of each symb
 63. **[Sqrt(x) LeetCode](https://github.com/code4Y/100-Days-Of-Code/tree/main/Day-63) :** 🧮🔢   
     Find square root of x rounded down to nearest integer. No built-in functions or operators allowed.     
     
+64. **[Happy Number LeetCode](https://github.com/code4Y/100-Days-Of-Code/tree/main/Day-64) :** 😊   
+    Determine if a number is happy by summing its digits' squares and repeating until 1 or an endless cycle. Return true if it ends in 1, false otherwise.   
+
 
     
