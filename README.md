@@ -202,5 +202,10 @@ converting Roman numerals to integers is adding together the values of each symb
 65. **[N-th Tribonacci Number LeetCode](https://github.com/code4Y/100-Days-Of-Code/tree/main/Day-65) :** 🔢🔄   
     The Tribonacci sequence is defined as: T<sub>0</sub> = 0, T<sub>1</sub> = 1, T<sub>2</sub> = 1, T<sub>n+3</sub> = T<sub>n</sub>+T<sub>n+1</sub>+T<sub>n+2</sub> for ```n >= 0```. Given ```n```, return T<sub>n</sub>.     
     
+66. **[Climbing Stairs LeetCode](https://github.com/code4Y/100-Days-Of-Code/tree/main/Day-66) :** :ladder:  
+    You are climbing a staircase. It takes n steps to reach the top. Each time you can either climb 1 or 2 steps. In how many distinct ways can you climb to the top?    
     
+
+
+
 
