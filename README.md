@@ -205,7 +205,8 @@ converting Roman numerals to integers is adding together the values of each symb
 66. **[Climbing Stairs LeetCode](https://github.com/code4Y/100-Days-Of-Code/tree/main/Day-66) :** :ladder:  
     You are climbing a staircase. It takes n steps to reach the top. Each time you can either climb 1 or 2 steps. In how many distinct ways can you climb to the top?    
     
-
+67. **[Best Team With No Conflicts LeetCode](https://github.com/code4Y/100-Days-Of-Code/tree/main/Day-67) :** 🏆⚽️💪  
+    You're a basketball manager. For a tournament, you want to pick the team with the highest score by summing the scores of all players. Conflicts occur when a younger player has a higher score than an older player. Choose the best team with no conflicts using lists of player scores and ages.    
 
 
 
