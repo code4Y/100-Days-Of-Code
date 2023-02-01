@@ -211,4 +211,6 @@ converting Roman numerals to integers is adding together the values of each symb
 68. **[Fizz Buzz LeetCode](https://github.com/code4Y/100-Days-Of-Code/tree/main/Day-68) :** 💥🔊   
     Return a string array of "FizzBuzz" if ```i``` is divisible by ```3``` & ```5```, "Fizz" if divisible by ```3```, "Buzz" if divisible by ```5```, or ```i``` (as string) for all ```i``` from ```1``` to ```n```, indexed 1-based.    
   
+69. **[Greatest Common Divisor of Strings LeetCode](https://github.com/code4Y/100-Days-Of-Code/tree/main/Day-69) :** 📈➗️🔡   
+    Find largest string ```x``` that divides both ```str1``` and ```str2```. If t divides s, ```s = t + ... + t``` (t repeated one or more times).   
 
