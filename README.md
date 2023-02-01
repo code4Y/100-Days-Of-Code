@@ -208,5 +208,7 @@ converting Roman numerals to integers is adding together the values of each symb
 67. **[Best Team With No Conflicts LeetCode](https://github.com/code4Y/100-Days-Of-Code/tree/main/Day-67) :** 🏆⚽️💪  
     You're a basketball manager. For a tournament, you want to pick the team with the highest score by summing the scores of all players. Conflicts occur when a younger player has a higher score than an older player. Choose the best team with no conflicts using lists of player scores and ages.    
 
-
+68. **[Fizz Buzz LeetCode](https://github.com/code4Y/100-Days-Of-Code/tree/main/Day-68) :** 💥🔊   
+    Return a string array of "FizzBuzz" if ```i``` is divisible by ```3``` & ```5```, "Fizz" if divisible by ```3```, "Buzz" if divisible by ```5```, or ```i``` (as string) for all ```i``` from ```1``` to ```n```, indexed 1-based.    
+  
 
