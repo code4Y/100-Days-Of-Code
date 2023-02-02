@@ -214,3 +214,6 @@ converting Roman numerals to integers is adding together the values of each symb
 69. **[Greatest Common Divisor of Strings LeetCode](https://github.com/code4Y/100-Days-Of-Code/tree/main/Day-69) :** 📈➗️🔡   
     Find largest string ```x``` that divides both ```str1``` and ```str2```. If t divides s, ```s = t + ... + t``` (t repeated one or more times).   
 
+70. **[Power of Three LeetCode](https://github.com/code4Y/100-Days-Of-Code/tree/main/Day-70) :** 💡️⚡️3️⃣   
+    Given an integer ```n```, return ```true``` if it is a power of three. Otherwise, return ```false```. An integer ```n``` is a power of three, if there exists an integer ```x``` such that <code>n == 3<sup>x</sup></code>.       
+    
