@@ -217,3 +217,7 @@ converting Roman numerals to integers is adding together the values of each symb
 70. **[Power of Three LeetCode](https://github.com/code4Y/100-Days-Of-Code/tree/main/Day-70) :** 💡️⚡️3️⃣   
     Given an integer ```n```, return ```true``` if it is a power of three. Otherwise, return ```false```. An integer ```n``` is a power of three, if there exists an integer ```x``` such that <code>n == 3<sup>x</sup></code>.       
     
+71. **[Zigzag Conversion LeetCode](https://github.com/code4Y/100-Days-Of-Code/tree/main/Day-71) :** ⚡💭   
+    Write code to convert string ```"PAYPALISHIRING"``` to ```"PAHNAPLSIIGYIR"``` using zigzag pattern given number of rows: ```string convert(string s, int numRows)```    
+    
+    
