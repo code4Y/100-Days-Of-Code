@@ -18,10 +18,10 @@ Output: false
 ```   
 
 ### Constraints:   
-```
-1 <= s1.length, s2.length <= 104
+
+<code>1 <= s1.length, s2.length <= 10<sup>4</sup>
 s1 and s2 consist of lowercase English letters.
-```   
+</code>   
 
 <br>   
 
