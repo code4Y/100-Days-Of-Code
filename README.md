@@ -220,4 +220,5 @@ converting Roman numerals to integers is adding together the values of each symb
 71. **[Zigzag Conversion LeetCode](https://github.com/code4Y/100-Days-Of-Code/tree/main/Day-71) :** ⚡💭   
     Write code to convert string ```"PAYPALISHIRING"``` to ```"PAHNAPLSIIGYIR"``` using zigzag pattern given number of rows: ```string convert(string s, int numRows)```    
     
-    
+72. **[Permutation in String LeetCode](https://github.com/code4Y/100-Days-Of-Code/tree/main/Day-72) :** 🔄🧵   
+    Given two strings ```s1``` and ```s2```, return ```true``` if ```s2``` contains a permutation of ```s1```, or ```false``` otherwise. In other words, return ```true``` if one of ```s1```'s permutations is the substring of ```s2```.     
