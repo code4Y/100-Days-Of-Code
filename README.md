@@ -222,3 +222,8 @@ converting Roman numerals to integers is adding together the values of each symb
     
 72. **[Permutation in String LeetCode](https://github.com/code4Y/100-Days-Of-Code/tree/main/Day-72) :** 🔄🧵   
     Given two strings ```s1``` and ```s2```, return ```true``` if ```s2``` contains a permutation of ```s1```, or ```false``` otherwise. In other words, return ```true``` if one of ```s1```'s permutations is the substring of ```s2```.     
+
+73. **[Find All Anagrams in a String LeetCode](https://github.com/code4Y/100-Days-Of-Code/tree/main/Day-73) :** 🔍🔀🔤    
+    Given two strings ```s``` and ```p```, return an array of all the start indices of ```p```'s anagrams in ```s```. You may return the answer in any order. An Anagram is a word or phrase formed by rearranging the letters of a different word or phrase, typically using all the original letters exactly once.    
+    
+    
