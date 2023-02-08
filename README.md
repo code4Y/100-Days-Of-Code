@@ -229,4 +229,6 @@ converting Roman numerals to integers is adding together the values of each symb
 74. **[Fruit Into Baskets LeetCode](https://github.com/code4Y/100-Days-Of-Code/tree/main/Day-74) :** 🍇🍉🍎🛍️    
     Two baskets are given to collect fruit from a row of trees, represented by an ```array``` fruits. Each basket can only hold one type of fruit, with no limit on the amount. You must pick one fruit from each tree as you move from left to right, and stop when you reach a fruit that won't fit in the baskets. The goal is to pick the maximum number of fruits.   
     
-    
+75. **[Jump Game II LeetCode](https://github.com/code4Y/100-Days-Of-Code/tree/main/Day-75) :** 🏃‍♂️🎮2️⃣    
+    Given a 0-indexed array ```nums``` of length ```n```, starting at ```nums[0]```. Each ```nums[i]``` is the max jump length from ```i``` to ```i + j``` (where ```0 <= j <= nums[i]``` and ```i + j < n```). Return minimum number of jumps to reach ```nums[n - 1]```. Assumed to always have a solution.     
+
