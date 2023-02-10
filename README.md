@@ -232,3 +232,6 @@ converting Roman numerals to integers is adding together the values of each symb
 75. **[Jump Game II LeetCode](https://github.com/code4Y/100-Days-Of-Code/tree/main/Day-75) :** 🏃‍♂️🎮2️⃣    
     Given a 0-indexed array ```nums``` of length ```n```, starting at ```nums[0]```. Each ```nums[i]``` is the max jump length from ```i``` to ```i + j``` (where ```0 <= j <= nums[i]``` and ```i + j < n```). Return minimum number of jumps to reach ```nums[n - 1]```. Assumed to always have a solution.     
 
+76. **[Naming a Company LeetCode](https://github.com/code4Y/100-Days-Of-Code/tree/main/Day-76) :** 📝💡🏢    
+    Given an array of strings ```ideas``` representing company names, find the number of distinct names formed by swapping the first letters of two names and concatenating them if they are not in the original ```ideas``` list.    
+
