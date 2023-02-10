@@ -66,7 +66,7 @@ class Solution {
                 if(grid[i][j] == 1) {
                     continue;
                 }
-                int bottem = x;
+                int bottom = x;
                 int right = x;
                 if(i+1 < m) 
                     bottom = grid[i+1][j];
