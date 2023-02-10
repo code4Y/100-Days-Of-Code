@@ -235,3 +235,7 @@ converting Roman numerals to integers is adding together the values of each symb
 76. **[Naming a Company LeetCode](https://github.com/code4Y/100-Days-Of-Code/tree/main/Day-76) :** 📝💡🏢    
     Given an array of strings ```ideas``` representing company names, find the number of distinct names formed by swapping the first letters of two names and concatenating them if they are not in the original ```ideas``` list.    
 
+77. **[As Far from Land as Possible LeetCode](https://github.com/code4Y/100-Days-Of-Code/tree/main/Day-77) :** 🌊🏃‍♂️🏝️     
+    Find max Manhattan distance from water cell to nearest land cell in an ```n x n``` grid of ```0```s (water) and ```1```s (land). Return distance or ```-1``` if no water or land exists.    
+    
+    
