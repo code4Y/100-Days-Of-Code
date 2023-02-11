@@ -238,4 +238,7 @@ converting Roman numerals to integers is adding together the values of each symb
 77. **[As Far from Land as Possible LeetCode](https://github.com/code4Y/100-Days-Of-Code/tree/main/Day-77) :** 🌊🏃‍♂️🏝️     
     Find max Manhattan distance from water cell to nearest land cell in an ```n x n``` grid of ```0```s (water) and ```1```s (land). Return distance or ```-1``` if no water or land exists.    
     
+78. **[Intersection of Two Arrays II LeetCode](https://github.com/code4Y/100-Days-Of-Code/tree/main/Day-78) :** 🔗2️⃣🧮    
+    Given two integer arrays ```nums1``` and ```nums2```, return an array of their intersection. Each element in the result must appear as many times as it shows in both arrays and you may return the result in **any order**.      
+    
     
