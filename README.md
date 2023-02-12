@@ -241,4 +241,7 @@ converting Roman numerals to integers is adding together the values of each symb
 78. **[Intersection of Two Arrays II LeetCode](https://github.com/code4Y/100-Days-Of-Code/tree/main/Day-78) :** 🔗2️⃣🧮    
     Given two integer arrays ```nums1``` and ```nums2```, return an array of their intersection. Each element in the result must appear as many times as it shows in both arrays and you may return the result in **any order**.      
     
+79. **[Binary Tree Inorder Traversal LeetCode](https://github.com/code4Y/100-Days-Of-Code/tree/main/Day-79) :** 🌳   
+    Given the ```root``` of a binary tree, return the inorder traversal of its nodes' values.     
+    
     
