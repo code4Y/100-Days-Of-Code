@@ -76,10 +76,10 @@ public class Solution {
 }
 ```    
 
-* Complexity:  
+### Complexity:  
 
 * Time Complexity: O(n)
-    * Rach node is visited once using while loop.
+    * Each node is visited once using while loop.
 
 * Space Complexity: O(n)
     * In worst case, all nodes in the binary tree will be pushed onto the stack.  
