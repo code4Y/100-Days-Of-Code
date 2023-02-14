@@ -244,4 +244,7 @@ converting Roman numerals to integers is adding together the values of each symb
 79. **[Binary Tree Inorder Traversal LeetCode](https://github.com/code4Y/100-Days-Of-Code/tree/main/Day-79) :** 🌳   
     Given the ```root``` of a binary tree, return the inorder traversal of its nodes' values.     
     
+80. **[Add Binary LeetCode](https://github.com/code4Y/100-Days-Of-Code/tree/main/Day-80) :** 1️⃣➕0️⃣    
+    Given two binary strings ```a``` and ```b```, return their sum as a binary string.     
     
+
