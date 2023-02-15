@@ -247,4 +247,6 @@ converting Roman numerals to integers is adding together the values of each symb
 80. **[Add Binary LeetCode](https://github.com/code4Y/100-Days-Of-Code/tree/main/Day-80) :** 1️⃣➕0️⃣    
     Given two binary strings ```a``` and ```b```, return their sum as a binary string.     
     
-
+81. **[Add to Array-Form of Integer LeetCode](https://github.com/code4Y/100-Days-Of-Code/tree/main/Day-81) :** 📊➕🔢    
+    Given an integer array ```num``` representing digits of an integer. Add another integer ```k``` to ```num``` and return the sum of both integers as an array of digits in left-to-right order.      
+    
