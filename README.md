@@ -250,3 +250,7 @@ converting Roman numerals to integers is adding together the values of each symb
 81. **[Add to Array-Form of Integer LeetCode](https://github.com/code4Y/100-Days-Of-Code/tree/main/Day-81) :** 📊➕🔢    
     Given an integer array ```num``` representing digits of an integer. Add another integer ```k``` to ```num``` and return the sum of both integers as an array of digits in left-to-right order.      
     
+82. **[Minimum Distance Between BST Nodes LeetCode](https://github.com/code4Y/100-Days-Of-Code/tree/main/Day-82) :** 🌳🔍📏    
+    Given the ```root``` of a Binary Search Tree (BST), return the minimum difference between the values of any two different nodes in the tree.   
+    
+    
