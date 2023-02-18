@@ -253,4 +253,6 @@ converting Roman numerals to integers is adding together the values of each symb
 82. **[Minimum Distance Between BST Nodes LeetCode](https://github.com/code4Y/100-Days-Of-Code/tree/main/Day-82) :** 🌳🔍📏    
     Given the ```root``` of a Binary Search Tree (BST), return the minimum difference between the values of any two different nodes in the tree.   
     
-    
+83. **[Invert Binary Tree LeetCode](https://github.com/code4Y/100-Days-Of-Code/tree/main/Day-83) :** 🌳🔄💻    
+    Given the ```root``` of a binary tree, invert the tree, and return its root.    
+
