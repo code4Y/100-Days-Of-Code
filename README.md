@@ -259,4 +259,6 @@ converting Roman numerals to integers is adding together the values of each symb
 84. **[Binary Tree Zigzag Level Order Traversal LeetCode](https://github.com/code4Y/100-Days-Of-Code/tree/main/Day-84) :** 🌳⚡️🚶‍♂   
     Given the ```root``` of a binary tree, return the zigzag level order traversal of its nodes' values. (i.e., from left to right, then right to left for the next level and alternate between).    
     
+85. **[Spiral Matrix LeetCode](https://github.com/code4Y/100-Days-Of-Code/tree/main/Day-85) :** 🔁🔢   
+    Given an ```m x n``` ```matrix```, return all elements of the ```matrix``` in spiral order.    
     
