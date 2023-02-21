@@ -268,4 +268,7 @@ converting Roman numerals to integers is adding together the values of each symb
 87. **[Single Element in a Sorted Array LeetCode](https://github.com/code4Y/100-Days-Of-Code/tree/main/Day-87) :** 💡1️⃣🧐🔢    
     Given a sorted array of integers where all elements appear twice, except for one element that appears once, return the single element. The solution must have a time complexity of ```O(log n)``` and a space complexity of ```O(1)```.    
     
+88. **[Single Number LeetCode](https://github.com/code4Y/100-Days-Of-Code/tree/main/Day-88) :** 🔢🤔1️⃣    
+    Find the unique number in an array of integers where every element appears twice, except for one. The solution must have a linear runtime complexity and use only constant extra space.     
+    
     
