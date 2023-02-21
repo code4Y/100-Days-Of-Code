@@ -265,4 +265,7 @@ converting Roman numerals to integers is adding together the values of each symb
 86. **[Search Insert Position LeetCode](https://github.com/code4Y/100-Days-Of-Code/tree/main/Day-86) :** 🔍⤵️📍    
     Given a sorted array of distinct integers and a target value, return the index if the target is found. If not, return the index where it would be if it were inserted in order. The runtime complexity of the algorithm must be ```O(log n)```.     
     
+87. **[Single Element in a Sorted Array LeetCode](https://github.com/code4Y/100-Days-Of-Code/tree/main/Day-87) :** 💡1️⃣🧐🔢    
+    Given a sorted array of integers where all elements appear twice, except for one element that appears once, return the single element. The solution must have a time complexity of ```O(log n)``` and a space complexity of ```O(1)```.    
+    
     
