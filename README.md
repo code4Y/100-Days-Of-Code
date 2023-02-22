@@ -271,4 +271,7 @@ converting Roman numerals to integers is adding together the values of each symb
 88. **[Single Number LeetCode](https://github.com/code4Y/100-Days-Of-Code/tree/main/Day-88) :** 🔢🤔1️⃣    
     Find the unique number in an array of integers where every element appears twice, except for one. The solution must have a linear runtime complexity and use only constant extra space.     
     
+89. **[Capacity To Ship Packages Within D Days LeetCode](https://github.com/code4Y/100-Days-Of-Code/tree/main/Day-89) :** 🚢📦🕑    
+    A conveyor belt has packages with weights that must be shipped within days. We load the ship each day with packages in the order given by weights, but can't exceed the maximum weight capacity of the ship. Find the least weight capacity needed to ship all packages within the given timeframe.      
+    
     
