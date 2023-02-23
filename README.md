@@ -274,4 +274,6 @@ converting Roman numerals to integers is adding together the values of each symb
 89. **[Capacity To Ship Packages Within D Days LeetCode](https://github.com/code4Y/100-Days-Of-Code/tree/main/Day-89) :** 🚢📦🕑    
     A conveyor belt has packages with weights that must be shipped within days. We load the ship each day with packages in the order given by weights, but can't exceed the maximum weight capacity of the ship. Find the least weight capacity needed to ship all packages within the given timeframe.      
     
-    
+90. **[Pascal's Triangle LeetCode](https://github.com/code4Y/100-Days-Of-Code/tree/main/Day-90) :** 🧑‍🔬🔢🔺     
+    Given an integer ```numRows```, return the first numRows of **Pascal's triangle**. In Pascal's triangle, each number is the sum of the two numbers directly above it.     
+
