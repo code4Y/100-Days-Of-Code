@@ -277,3 +277,7 @@ converting Roman numerals to integers is adding together the values of each symb
 90. **[Pascal's Triangle LeetCode](https://github.com/code4Y/100-Days-Of-Code/tree/main/Day-90) :** 🧑‍🔬🔢🔺     
     Given an integer ```numRows```, return the first numRows of **Pascal's triangle**. In Pascal's triangle, each number is the sum of the two numbers directly above it.     
 
+91. **[Valid Anagram LeetCode](https://github.com/code4Y/100-Days-Of-Code/tree/main/Day-91) :** 🔤🔁🔡✅     
+    Given two strings ```s``` and ```t```, return ```true``` if ```t``` is an anagram of ```s```, and ```false``` otherwise. An **Anagram** is a word or phrase formed by rearranging the letters of a different word or phrase, typically using all the original letters exactly once.    
+    
+    
