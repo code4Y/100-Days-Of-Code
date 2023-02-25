@@ -283,4 +283,6 @@ converting Roman numerals to integers is adding together the values of each symb
 92. **[Valid Parentheses LeetCode](https://github.com/code4Y/100-Days-Of-Code/tree/main/Day-92) :** ✅ ( ) [ ] { }    
     Check if a string of brackets is valid by verifying that they are correctly opened and closed in the right order and that each opening bracket has a corresponding closing bracket.        
     
-    
+93. **[Basic Calculator II LeetCode](https://github.com/code4Y/100-Days-Of-Code/tree/main/Day-93) :** 🧮    
+    Given a string ```s``` which represents an expression, evaluate this expression and return its value. The integer division should truncate toward zero.    
+
