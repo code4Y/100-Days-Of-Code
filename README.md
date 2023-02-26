@@ -286,3 +286,7 @@ converting Roman numerals to integers is adding together the values of each symb
 93. **[Basic Calculator II LeetCode](https://github.com/code4Y/100-Days-Of-Code/tree/main/Day-93) :** 🧮    
     Given a string ```s``` which represents an expression, evaluate this expression and return its value. The integer division should truncate toward zero.    
 
+94. **[Edit Distance LeetCode](https://github.com/code4Y/100-Days-Of-Code/tree/main/Day-94) :** 🔤✂️🔡    
+    Given two strings, return the minimum number of operations to convert one to the other using insert, delete, or replace operations on characters.     
+    
+    
