@@ -289,4 +289,7 @@ converting Roman numerals to integers is adding together the values of each symb
 94. **[Edit Distance LeetCode](https://github.com/code4Y/100-Days-Of-Code/tree/main/Day-94) :** 🔤✂️🔡    
     Given two strings, return the minimum number of operations to convert one to the other using insert, delete, or replace operations on characters.     
     
+95. **[String to Integer (atoi) LeetCode](https://github.com/code4Y/100-Days-Of-Code/tree/main/Day-95) :** 🧵➡️🔢    
+    The ```myAtoi``` function converts a string to a 32-bit signed integer by removing leading whitespace, reading an optional sign, extracting digits until the end of the input or a non-digit character, converting them to an integer, and clamping it if it's out of range. Return the integer as the final result.     
+    
     
