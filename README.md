@@ -292,4 +292,6 @@ converting Roman numerals to integers is adding together the values of each symb
 95. **[String to Integer (atoi) LeetCode](https://github.com/code4Y/100-Days-Of-Code/tree/main/Day-95) :** 🧵➡️🔢    
     The ```myAtoi``` function converts a string to a 32-bit signed integer by removing leading whitespace, reading an optional sign, extracting digits until the end of the input or a non-digit character, converting them to an integer, and clamping it if it's out of range. Return the integer as the final result.     
     
-    
+96. **[Number of Islands LeetCode](https://github.com/code4Y/100-Days-Of-Code/tree/main/Day-96) :** 🌊🏝️🌊    
+    Given an ```m x n``` 2D binary grid ```grid``` which represents a map of ```'1'```s (land) and ```'0'```s (water), return the number of islands. An island is surrounded by water and is formed by connecting adjacent lands horizontally or vertically. You may assume all four edges of the grid are all surrounded by water.   
+
