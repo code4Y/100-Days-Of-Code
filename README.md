@@ -295,3 +295,7 @@ converting Roman numerals to integers is adding together the values of each symb
 96. **[Number of Islands LeetCode](https://github.com/code4Y/100-Days-Of-Code/tree/main/Day-96) :** 🌊🏝️🌊    
     Given an ```m x n``` 2D binary grid ```grid``` which represents a map of ```'1'```s (land) and ```'0'```s (water), return the number of islands. An island is surrounded by water and is formed by connecting adjacent lands horizontally or vertically. You may assume all four edges of the grid are all surrounded by water.   
 
+97. **[Number of Islands LeetCode](https://github.com/code4Y/100-Days-Of-Code/tree/main/Day-97) :** 🔁🔗📜   
+    Given the ```head``` of a singly linked list, return ```true``` if it is a palindrome or ```false``` otherwise.    
+    
+    
