@@ -300,3 +300,8 @@ converting Roman numerals to integers is adding together the values of each symb
     
 98. **[Convert Sorted Array to Binary Search Tree LeetCode](https://github.com/code4Y/100-Days-Of-Code/tree/main/Day-98) :** 🔢💻🌳   
     Given an integer array ```nums``` where the elements are sorted in **ascending order**, convert it to a height-balanced binary search tree.    
+
+99. **[Symmetric Tree LeetCode](https://github.com/code4Y/100-Days-Of-Code/tree/main/Day-99) :** 🌳👀🌳   
+    Given the ```root``` of a binary tree, check whether it is a mirror of itself (i.e., symmetric around its center).     
+    
+    
