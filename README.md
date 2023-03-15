@@ -304,4 +304,7 @@ converting Roman numerals to integers is adding together the values of each symb
 99. **[Symmetric Tree LeetCode](https://github.com/code4Y/100-Days-Of-Code/tree/main/Day-99) :** 🌳👀🌳   
     Given the ```root``` of a binary tree, check whether it is a mirror of itself (i.e., symmetric around its center).     
     
-    
+100. **[Binary Tree Level Order Traversal LeetCode](https://github.com/code4Y/100-Days-Of-Code/tree/main/Day-100) :** 🌳🔢📊   
+     Given the ```root``` of a binary tree, return the level order traversal of its nodes' values. (i.e., from left to right, level by level).    
+     
+     
